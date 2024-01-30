@@ -1,0 +1,28 @@
+.login-container {
+  width: 300px;
+  margin: 10px auto;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.message {
+  margin-top: 10px;
+  color: rgb(21, 18, 18);
+}
